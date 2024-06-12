@@ -1,4 +1,4 @@
-# Digital-Well-Being--for-Mobile-Gaming
+# Digital-Well-Being-for-Mobile-Gaming
 
 ## Introduction and Proposed Approach
 The fundamental issue addressed by this project is the excessive screen time and potential digital addiction faced by mobile gamers, particularly young users. Excessive screen time and its impact on both physical and mental health inspired us to create a solution.
