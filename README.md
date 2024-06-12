@@ -12,4 +12,6 @@ Demo Video Link - https://youtu.be/s0_sIfeIXes?si=xYaAmSR3Yx12VoGQ
 ## Contributors
 
 [Charith Kutikuppala](https://github.com/itsmeck24)  
-[Harsh Mungara](https://github.com/Harsh62004)  
+[Harsh Mungara](https://github.com/Harsh62004)    
+[Aditya Tanna](https://github.com/adityatanna29)   
+[Aaditya Meher](https://github.com/AadiM07)   
