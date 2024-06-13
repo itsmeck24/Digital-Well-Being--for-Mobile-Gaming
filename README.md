@@ -7,7 +7,7 @@ Our approach was methodical. Starting from user research involving surveys and d
 
 Key features of the app include a dual-dashboard system for both parents and children. Parents can monitor and control aspects like screen time, bedtime, and content filters, while sending approval requests for game access. The child/general user dashboard enhances user engagement with features like focus mode, quests, challenges, and a dynamic avatar named Zenith that changes expressions based on user behavior. This interactive approach encourages users to reflect on their gaming habits and strive for a healthier digital life
 
-Figma prototype Link - https://www.figma.com/design/HPYIpzwLFBxdJhCg4hLnqs/HCI?node-id=0-1&t=mIhbZLLOXt9d1jif-1  
+Figma Prototype Link - https://www.figma.com/design/HPYIpzwLFBxdJhCg4hLnqs/HCI?node-id=0-1&t=mIhbZLLOXt9d1jif-1   
 Demo Video Link - https://youtu.be/s0_sIfeIXes?si=xYaAmSR3Yx12VoGQ  
 
 ## Contributors
